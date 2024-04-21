@@ -1,0 +1,5 @@
+  Este é meu primeiro arquivo, aqui vou mostrar toda a minha trajetória e evolução durante a minha apredizagem. Sou iniciante não tenho muito conhecimento, porém vou me esforçar ao máximo.
+Me chamo Lonely, e vou me aperfeiçoar nesse mundo de programação.
+
+This is my first file, here I will show my entire trajectory and evolution during my learning. I'm a beginner, I don't have much knowledge, but I'll try my best.
+My name is Lonely, and you perfect me in this world of programming.
