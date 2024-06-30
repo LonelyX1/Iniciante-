@@ -16,7 +16,7 @@ dentro dela vai estar tudo especificado de como foi feito e o código.
 # Habilidades:
 Sou um progamador jovem, que a cada dia que passa estou me aperfeiçoando e melhorando minha habilades.
 
-Sei  programar em algumas linguagens conhcidas, vou deixar aqui em baixo quais são elas:
+Seii  programar em algumas linguagens conhcidas, vou deixar aqui em baixo quais são elas:
 
 ![alt text](logpython.png) ![alt text](logjavascript.png) 
 
