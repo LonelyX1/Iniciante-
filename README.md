@@ -1,6 +1,6 @@
 # Lista de exercício em C++
 
-Vamos resolver a primeira lsta da Linguagem C++.
+Vamos resolver a primeira lista da Linguagem C++.
 
 ## Lista 1 - Introdução à C C++
 
