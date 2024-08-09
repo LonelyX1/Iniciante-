@@ -31,3 +31,6 @@ valor da multa, cobrando R$ 5 por km acima de 80 km/h.
 3) Escreva um programa que leia três números e que imprima o maior e o menor.
 
 ![alt text](image-2.png)
+
+
+
