@@ -33,4 +33,12 @@ valor da multa, cobrando R$ 5 por km acima de 80 km/h.
 ![alt text](image-2.png)
 
 
+4) Escreva um programa que calcule o preço a pagar pelo fornecimento de energia elétrica.
+Pergunte a quantidade de kWh consumida e o tipo de instalação: R para residências, I
+para indústrias e C para comércios. Calcule o preço a pagar de acordo com a tabela a
+seguir.
+
+![alt text](image-3.png)
+
+
 
