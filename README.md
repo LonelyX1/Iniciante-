@@ -26,3 +26,8 @@ seguinte fórmula:
 valor da multa, cobrando R$ 5 por km acima de 80 km/h.
 
 ![alt text](image.png)
+
+
+3) Escreva um programa que leia três números e que imprima o maior e o menor.
+
+![alt text](image-1.png)
