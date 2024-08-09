@@ -2,7 +2,7 @@
 
 Vamos resolver a primeira lista da Linguagem C++.
 
-## Lista 1 - Introdução à C C++
+## Lista 1 - Introdução à C e C++
 
 1) Escreva um programa que solicite ao usuário a altura e o raio de um cilindro circular e
 imprima o volume do cilindro. O volume de um cilindro circular é calculado por meio da
